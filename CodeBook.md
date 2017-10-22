@@ -1,4 +1,4 @@
-This CodeBook file summerizes variables in "tidy_data.txt" file
+#This CodeBook file summerizes variables in "tidy_data.txt" file
 
 1. Subject represents the volunteer ID from 1 to 30
 
